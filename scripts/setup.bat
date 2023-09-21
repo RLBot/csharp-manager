@@ -5,7 +5,7 @@
 cd /D "%~dp0"
 
 .\flatbuffers\flatc.exe --csharp -o .\generated\flatbuffers .\flatbuffers\rlbot.fbs
-xcopy /s /Y .\generated\flatbuffers\rlbot ..\RLBotDotNet
+xcopy /s /Y .\generated\flatbuffers\rlbot ..\src
 
 echo.
 echo #######################

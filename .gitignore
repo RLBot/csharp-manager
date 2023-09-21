@@ -401,4 +401,4 @@ FodyWeavers.xsd
 
 # RLBot-specific
 scripts/generated
-RLBotDotNet/flat
+src/flat
