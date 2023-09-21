@@ -2,6 +2,8 @@
 
 This is the C# RLBot bot manager. It was written in C#, but the DLL produced by this can be used by any .NET language.
 
+Please run setup.bat so that the FlatBuffers generated files go in the /flat folder.
+
 ## Publishing to NuGet
 
 RLBotDotNet is available on NuGet at https://www.nuget.org/packages/RLBot.Framework.

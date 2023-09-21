@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea
+
+
+# RLBot-specific
+scripts/generated
+RLBotDotNet/flat
